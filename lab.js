@@ -6,7 +6,15 @@
   If it is not, console log "Coding has its challenges."
 */
 
-//CODE HERE
+let lovesCode = true;
+  if (lovesCode == true)
+{
+  console.log('I Love to Code!')
+}
+    else if (lovesCode === false)
+    {
+      console.log('Coding has its challenges')
+    }
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29
